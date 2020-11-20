@@ -18,7 +18,7 @@ def user_input():
     sum=num1pow_sum(num1,count)
     print("The sum of digits of the num1 {}".format(sum))
     if sum==num1:
-        print("The input number {} is Armstrong number".format(num1))
+        print("The input number {} is an Armstrong number".format(num1))
     else:
         print("The input number {} is not an Armstrong number".format(num1))
 user_input()
